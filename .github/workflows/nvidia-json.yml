@@ -12,4 +12,10 @@ jobs:
         with:
             name: nvidia-upported-gpus-json
             path: ./supported-gpus.json
-
+      - run: mkdir build
+      - run: cp ./supported-gpus.json build
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@4.1.5
+        with:
+            branch: gh-pages
+            folder: build
