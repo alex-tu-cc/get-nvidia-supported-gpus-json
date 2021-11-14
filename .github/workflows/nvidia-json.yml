@@ -1,3 +1,4 @@
+name: get-nvidia-supported-gpus-json
 on:
   schedule:
     - cron:  '*/10 * * * *'
