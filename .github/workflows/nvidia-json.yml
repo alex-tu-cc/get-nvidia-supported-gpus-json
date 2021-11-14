@@ -1,4 +1,6 @@
-on: [push]
+on:
+  schedule:
+    - cron:  '*/10 * * * *'
 jobs:
   get-nvidia-supported-gpus-json:
     runs-on: ubuntu-20.04
