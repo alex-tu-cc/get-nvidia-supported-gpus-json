@@ -13,4 +13,6 @@ NVIDIA_DEB=$(apt-cache search  "^nvidia-driver-[0-9][0-9][0-9]" | cut -d' ' -f1 
 apt-get --download-only source "$NVIDIA_DEB"
 tar xvf nvidia-graphics-drivers-*amd64.tar.gz
 $(find . -name "*.run") -x
-cp $(find . -name "supported-gpus.json") .
+#cp $(find . -name "supported-gpus.json") .
+sudo apt-get install -y jq
+jq ". += {\"version\":\"$NVIDIA_DEB\"}" $(find . -name "supported-gpus.json") > supported-gpus.json
