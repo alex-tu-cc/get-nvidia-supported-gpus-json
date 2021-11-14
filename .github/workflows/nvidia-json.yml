@@ -8,4 +8,8 @@ jobs:
       - run: ls
       - run: ./get-nvidia-supported-gpus-json.sh
         shell: bash
+      - uses: actions/upload-artifact@v2
+        with:
+            name: nvidia-upported-gpus-json
+            path: ./supported-gpus.json
 
