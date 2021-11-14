@@ -1,0 +1,11 @@
+on: [push]
+jobs:
+  get-nvidia-supported-gpus-json:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - run: ls
+      - run: ./get-nvidia-supported-gpus-json.sh
+        shell: bash
+
