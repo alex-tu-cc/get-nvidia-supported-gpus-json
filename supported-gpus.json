@@ -18701,6 +18701,86 @@
       ]
     },
     {
+      "devid": "0x1FF0",
+      "subdevid": "0x1612",
+      "subvendorid": "0x1028",
+      "name": "NVIDIA T1000 8GB",
+      "features": [
+        "geforce",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x1FF0",
+      "subdevid": "0x1612",
+      "subvendorid": "0x103C",
+      "name": "NVIDIA T1000 8GB",
+      "features": [
+        "geforce",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x1FF0",
+      "subdevid": "0x1612",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA T1000 8GB",
+      "features": [
+        "geforce",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x1FF0",
+      "subdevid": "0x1612",
+      "subvendorid": "0x17AA",
+      "name": "NVIDIA T1000 8GB",
+      "features": [
+        "geforce",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x1FF2",
+      "subdevid": "0x1613",
+      "subvendorid": "0x1028",
+      "name": "NVIDIA T400 4GB",
+      "features": [
+        "geforce",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x1FF2",
+      "subdevid": "0x1613",
+      "subvendorid": "0x103C",
+      "name": "NVIDIA T400 4GB",
+      "features": [
+        "geforce",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x1FF2",
+      "subdevid": "0x1613",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA T400 4GB",
+      "features": [
+        "geforce",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x1FF2",
+      "subdevid": "0x1613",
+      "subvendorid": "0x17AA",
+      "name": "NVIDIA T400 4GB",
+      "features": [
+        "geforce",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
       "devid": "0x1FF9",
       "name": "Quadro T1000",
       "features": [
@@ -19219,6 +19299,46 @@
       ]
     },
     {
+      "devid": "0x2232",
+      "subdevid": "0x163C",
+      "subvendorid": "0x1028",
+      "name": "NVIDIA RTX A4500",
+      "features": [
+        "geforce",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x2232",
+      "subdevid": "0x163C",
+      "subvendorid": "0x103C",
+      "name": "NVIDIA RTX A4500",
+      "features": [
+        "geforce",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x2232",
+      "subdevid": "0x163C",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA RTX A4500",
+      "features": [
+        "geforce",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x2232",
+      "subdevid": "0x163C",
+      "subvendorid": "0x17AA",
+      "name": "NVIDIA RTX A4500",
+      "features": [
+        "geforce",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
       "devid": "0x2235",
       "subdevid": "0x145A",
       "subvendorid": "0x10DE",
@@ -19489,6 +19609,46 @@
       ]
     },
     {
+      "devid": "0x2571",
+      "subdevid": "0x1611",
+      "subvendorid": "0x1028",
+      "name": "NVIDIA RTX A2000 12GB",
+      "features": [
+        "geforce",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x2571",
+      "subdevid": "0x1611",
+      "subvendorid": "0x103C",
+      "name": "NVIDIA RTX A2000 12GB",
+      "features": [
+        "geforce",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x2571",
+      "subdevid": "0x1611",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA RTX A2000 12GB",
+      "features": [
+        "geforce",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x2571",
+      "subdevid": "0x1611",
+      "subvendorid": "0x17AA",
+      "name": "NVIDIA RTX A2000 12GB",
+      "features": [
+        "geforce",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
       "devid": "0x25A0",
       "name": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
       "features": [
@@ -19517,6 +19677,16 @@
       "subdevid": "0x14A9",
       "subvendorid": "0x10DE",
       "name": "NVIDIA A16",
+      "features": [
+        "geforce",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x25B6",
+      "subdevid": "0x157E",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA A2",
       "features": [
         "geforce",
         "vdpaufeaturesetK"
