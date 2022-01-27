@@ -20,7 +20,7 @@ while read -r NVIDIA_DEB; do
     tar xvf nvidia-graphics-drivers-*amd64.tar.gz
     $(find . -name "*.run") -x
     json_file="$dis_codename"-"$NVIDIA_DEB"-supported-gpus.json
-    cp "$(find . -name "supported-gpus.json")" "$WORK_DIR"/"$json_file"
+    jq < "$(find . -name "supported-gpus.json")" > "$WORK_DIR"/"$json_file"
     echo "[$json_file]($url/$json_file)  " >> "$WORK_DIR"/index.md
     rm -rf "$tmpfolder"
     popd
