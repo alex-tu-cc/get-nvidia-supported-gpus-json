@@ -11,7 +11,7 @@ jobs:
       - run: ./get-nvidia-supported-gpus-json.sh
         shell: bash
       - run: mkdir build
-      - run: cp ./supported-gpus.json build
+      - run: cp ./*supported-gpus.json build
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.5
         with:
