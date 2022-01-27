@@ -18,7 +18,7 @@ while read -r NVIDIA_DEB; do
     apt-get --download-only source "$NVIDIA_DEB"
     tar xvf nvidia-graphics-drivers-*amd64.tar.gz
     $(find . -name "*.run") -x
-    cp "$(find . -name "supported-gpus.json")" "$WORK_DIR"/"$NVIDIA_DEB"-supported-gpus.json
+    cp "$(find . -name "supported-gpus.json")" "$WORK_DIR"/"$dis_codename"-"$NVIDIA_DEB"-supported-gpus.json
     rm -rf "$tmpfolder"
     popd
     #jq ". += {\"version\":\"$NVIDIA_DEB\"}" $(find . -name "supported-gpus.json") > $NVIDIA_DEB-supported-gpus.json
