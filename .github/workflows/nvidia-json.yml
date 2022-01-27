@@ -13,7 +13,7 @@ jobs:
       - run: ./get-nvidia-supported-gpus-json.sh
         shell: bash
       - run: mkdir build
-      - run: cp ./*supported-gpus.json build
+      - run: cp ./*supported-gpus.json ./index.md build
       - uses: actions/upload-artifact@v2
         with:
             name: artifact
@@ -34,6 +34,7 @@ jobs:
             path: build
       - run: ls build
       - run: cp ./*supported-gpus.json build/
+      - run: cat ./index.md >> build/index.md
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.5
         with:

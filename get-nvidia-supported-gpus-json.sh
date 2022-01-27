@@ -1,5 +1,6 @@
 #!/bin/bash
 set -ex
+url="https://alex-tu-cc.github.io/get-nvidia-supported-gpus-json/"
 #sed -i 's/^# //g'  /etc/apt/sources.list
 dis_codename="$(grep DISTRIB_CODENAME /etc/lsb-release| cut -d'=' -f2)"
 cat <<EOF | sudo tee /etc/apt/sources.list.d/ubuntu-"$dis_codename"-proposed.list
@@ -18,7 +19,9 @@ while read -r NVIDIA_DEB; do
     apt-get --download-only source "$NVIDIA_DEB"
     tar xvf nvidia-graphics-drivers-*amd64.tar.gz
     $(find . -name "*.run") -x
-    cp "$(find . -name "supported-gpus.json")" "$WORK_DIR"/"$dis_codename"-"$NVIDIA_DEB"-supported-gpus.json
+    json_file="$dis_codename"-"$NVIDIA_DEB"-supported-gpus.json
+    cp "$(find . -name "supported-gpus.json")" "$WORK_DIR"/"$json_file"
+    echo "[$json_file]($url/$json_file)  " >> "$WORK_DIR"/index.md
     rm -rf "$tmpfolder"
     popd
     #jq ". += {\"version\":\"$NVIDIA_DEB\"}" $(find . -name "supported-gpus.json") > $NVIDIA_DEB-supported-gpus.json
