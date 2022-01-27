@@ -2,6 +2,8 @@ name: get-nvidia-supported-gpus-json
 on:
   schedule:
     - cron:  '0 */1 * * *'
+  workflow_dispatch:
+
 jobs:
   focal-get-nvidia-supported-gpus-json:
     runs-on: ubuntu-20.04
