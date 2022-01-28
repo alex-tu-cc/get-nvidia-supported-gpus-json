@@ -1,0 +1,8 @@
+[focal-nvidia-driver-470-supported-gpus.json](https://alex-tu-cc.github.io/get-nvidia-supported-gpus-json/focal-nvidia-driver-470-supported-gpus.json)  
+[focal-nvidia-driver-470-modaliases](https://alex-tu-cc.github.io/get-nvidia-supported-gpus-json/focal-nvidia-driver-470-modaliases)  
+[bionic-nvidia-driver-470-supported-gpus.json](https://alex-tu-cc.github.io/get-nvidia-supported-gpus-json/bionic-nvidia-driver-470-supported-gpus.json)  
+[bionic-nvidia-driver-470-modaliases](https://alex-tu-cc.github.io/get-nvidia-supported-gpus-json/bionic-nvidia-driver-470-modaliases)  
+[focal-nvidia-driver-495-supported-gpus.json](https://alex-tu-cc.github.io/get-nvidia-supported-gpus-json/focal-nvidia-driver-495-supported-gpus.json)  
+[focal-nvidia-driver-495-modaliases](https://alex-tu-cc.github.io/get-nvidia-supported-gpus-json/focal-nvidia-driver-495-modaliases)  
+[bionic-nvidia-driver-495-supported-gpus.json](https://alex-tu-cc.github.io/get-nvidia-supported-gpus-json/bionic-nvidia-driver-495-supported-gpus.json)  
+[bionic-nvidia-driver-495-modaliases](https://alex-tu-cc.github.io/get-nvidia-supported-gpus-json/bionic-nvidia-driver-495-modaliases)  
