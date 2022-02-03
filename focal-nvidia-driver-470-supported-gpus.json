@@ -16277,6 +16277,19 @@
       ]
     },
     {
+      "devid": "0x1F03",
+      "name": "NVIDIA GeForce RTX 2060",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
       "devid": "0x1F06",
       "name": "NVIDIA GeForce RTX 2060 SUPER",
       "features": [
@@ -19091,6 +19104,36 @@
     },
     {
       "devid": "0x1F9D",
+      "subdevid": "0x128D",
+      "subvendorid": "0x1043",
+      "name": "NVIDIA GeForce GTX 1650 with Max-Q Design",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x1F9D",
+      "subdevid": "0x130D",
+      "subvendorid": "0x1043",
+      "name": "NVIDIA GeForce GTX 1650 with Max-Q Design",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x1F9D",
       "subdevid": "0x149C",
       "subvendorid": "0x1043",
       "name": "NVIDIA GeForce GTX 1650 with Max-Q Design",
@@ -19107,6 +19150,21 @@
     {
       "devid": "0x1F9D",
       "subdevid": "0x185C",
+      "subvendorid": "0x1043",
+      "name": "NVIDIA GeForce GTX 1650 with Max-Q Design",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x1F9D",
+      "subdevid": "0x189C",
       "subvendorid": "0x1043",
       "name": "NVIDIA GeForce GTX 1650 with Max-Q Design",
       "features": [
@@ -19169,6 +19227,32 @@
       "subdevid": "0x132E",
       "subvendorid": "0x1462",
       "name": "NVIDIA GeForce GTX 1650 with Max-Q Design",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x1F9F",
+      "name": "NVIDIA GeForce MX550",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x1FA0",
+      "name": "NVIDIA GeForce MX550",
       "features": [
         "dpycbcr420",
         "dpgsynccompatible",
@@ -19990,6 +20074,21 @@
       ]
     },
     {
+      "devid": "0x20B2",
+      "subdevid": "0x1625",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA PG509-210",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "tesla",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
       "devid": "0x20B3",
       "subdevid": "0x14A7",
       "subvendorid": "0x10DE",
@@ -20023,7 +20122,7 @@
       "devid": "0x20B5",
       "subdevid": "0x1533",
       "subvendorid": "0x10DE",
-      "name": "NVIDIA A100-PCIE-80GB",
+      "name": "NVIDIA A100 80GB PCIe",
       "features": [
         "dpycbcr420",
         "dpgsynccompatible",
@@ -21149,6 +21248,45 @@
     {
       "devid": "0x25A5",
       "name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x25A6",
+      "name": "NVIDIA GeForce MX570",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x25A7",
+      "name": "NVIDIA GeForce MX570",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x25A9",
+      "name": "NVIDIA GeForce RTX 2050",
       "features": [
         "dpycbcr420",
         "dpgsynccompatible",
