@@ -301,6 +301,11 @@ pci:v000010DEd000025E2sv*sd*bc03sc*i*
 pci:v000010DEd000025E5sv*sd*bc03sc*i*
 pci:v000010DEd000025F9sv*sd*bc03sc*i*
 pci:v000010DEd000025FAsv*sd*bc03sc*i*
+pci:v000010DEd00002438sv*sd*bc03sc*i*
+pci:v000010DEd000024BAsv*sd*bc03sc*i*
+pci:v000010DEd000024BBsv*sd*bc03sc*i*
+pci:v000010DEd000025B9sv*sd*bc03sc*i*
+pci:v000010DEd000025BAsv*sd*bc03sc*i*
 pci:v000010DEd00001340sv*sd*bc03sc*i*
 pci:v000010DEd00001341sv*sd*bc03sc*i*
 pci:v000010DEd00001344sv*sd*bc03sc*i*
