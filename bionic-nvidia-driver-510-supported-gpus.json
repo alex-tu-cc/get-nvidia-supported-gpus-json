@@ -20908,6 +20908,19 @@
       ]
     },
     {
+      "devid": "0x1FB6",
+      "name": "NVIDIA T600 Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
       "devid": "0x1FB7",
       "name": "NVIDIA T550 Laptop GPU",
       "features": [
@@ -21685,6 +21698,21 @@
       ]
     },
     {
+      "devid": "0x20B5",
+      "subdevid": "0x1642",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA A100 80GB PCIe",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
       "devid": "0x20B6",
       "subdevid": "0x1492",
       "subvendorid": "0x10DE",
@@ -22171,6 +22199,19 @@
       ]
     },
     {
+      "devid": "0x2203",
+      "name": "NVIDIA GeForce RTX 3090 Ti",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
       "devid": "0x2204",
       "name": "NVIDIA GeForce RTX 3090",
       "features": [
@@ -22575,6 +22616,19 @@
       ]
     },
     {
+      "devid": "0x2438",
+      "name": "NVIDIA RTX A5500 Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
       "devid": "0x2460",
       "name": "NVIDIA GeForce RTX 3080 Ti Laptop GPU",
       "features": [
@@ -22862,6 +22916,45 @@
       ]
     },
     {
+      "devid": "0x24B9",
+      "name": "NVIDIA RTX A3000 12GB Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x24BA",
+      "name": "NVIDIA RTX A4500 Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x24BB",
+      "name": "NVIDIA RTX A3000 12GB Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
       "devid": "0x24DC",
       "name": "NVIDIA GeForce RTX 3080 Laptop GPU",
       "features": [
@@ -22942,6 +23035,19 @@
     {
       "devid": "0x2507",
       "name": "NVIDIA GeForce RTX 3050",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x2508",
+      "name": "NVIDIA GeForce RTX 3050 OEM",
       "features": [
         "dpycbcr420",
         "dpgsynccompatible",
@@ -23139,6 +23245,36 @@
     },
     {
       "devid": "0x25A0",
+      "subdevid": "0x8928",
+      "subvendorid": "0x103C",
+      "name": "NVIDIA GeForce RTX 3050Ti Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x25A0",
+      "subdevid": "0x89F9",
+      "subvendorid": "0x103C",
+      "name": "NVIDIA GeForce RTX 3050Ti Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x25A0",
       "subdevid": "0x1196",
       "subvendorid": "0x1D05",
       "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
@@ -23223,7 +23359,7 @@
     },
     {
       "devid": "0x25A7",
-      "name": "NVIDIA GeForce MX570",
+      "name": "NVIDIA GeForce RTX 2050",
       "features": [
         "dpycbcr420",
         "dpgsynccompatible",
@@ -23293,6 +23429,45 @@
     {
       "devid": "0x25B8",
       "name": "NVIDIA RTX A2000 Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x25B9",
+      "name": "NVIDIA RTX A1000 Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x25BA",
+      "name": "NVIDIA RTX A2000 8GB Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x25BB",
+      "name": "NVIDIA RTX A500 Laptop GPU",
       "features": [
         "dpycbcr420",
         "dpgsynccompatible",

@@ -16330,7 +16330,7 @@
     },
     {
       "devid": "0x1F09",
-      "name": "NVIDIA GeForce GTX 1660 SUPER",
+      "name": "NVIDIA Graphics Device",
       "features": [
         "dpycbcr420",
         "dpgsynccompatible",
@@ -19224,6 +19224,36 @@
     },
     {
       "devid": "0x1F9D",
+      "subdevid": "0x1326",
+      "subvendorid": "0x1462",
+      "name": "NVIDIA GeForce GTX 1650 with Max-Q Design",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x1F9D",
+      "subdevid": "0x132A",
+      "subvendorid": "0x1462",
+      "name": "NVIDIA GeForce GTX 1650 with Max-Q Design",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x1F9D",
       "subdevid": "0x132E",
       "subvendorid": "0x1462",
       "name": "NVIDIA GeForce GTX 1650 with Max-Q Design",
@@ -19266,6 +19296,54 @@
     {
       "devid": "0x1FB0",
       "subdevid": "0x12DB",
+      "subvendorid": "0x1028",
+      "name": "NVIDIA T1000",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "pixelshift",
+        "quadro",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x1FB0",
+      "subdevid": "0x12DB",
+      "subvendorid": "0x103C",
+      "name": "NVIDIA T1000",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "pixelshift",
+        "quadro",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x1FB0",
+      "subdevid": "0x8A80",
+      "subvendorid": "0x103C",
+      "name": "NVIDIA T1000",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "pixelshift",
+        "quadro",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x1FB0",
+      "subdevid": "0x12DB",
       "subvendorid": "0x10DE",
       "name": "NVIDIA T1000",
       "features": [
@@ -19296,6 +19374,70 @@
       ]
     },
     {
+      "devid": "0x1FB0",
+      "subdevid": "0x12DB",
+      "subvendorid": "0x17AA",
+      "name": "NVIDIA T1000",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "pixelshift",
+        "quadro",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x1FB1",
+      "subdevid": "0x1488",
+      "subvendorid": "0x1028",
+      "name": "NVIDIA T600",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "pixelshift",
+        "quadro",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x1FB1",
+      "subdevid": "0x1488",
+      "subvendorid": "0x103C",
+      "name": "NVIDIA T600",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "pixelshift",
+        "quadro",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x1FB1",
+      "subdevid": "0x8A80",
+      "subvendorid": "0x103C",
+      "name": "NVIDIA T600",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "pixelshift",
+        "quadro",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
       "devid": "0x1FB1",
       "subdevid": "0x1488",
       "subvendorid": "0x10DE",
@@ -19312,10 +19454,150 @@
       ]
     },
     {
+      "devid": "0x1FB1",
+      "subdevid": "0x1488",
+      "subvendorid": "0x15C3",
+      "name": "NVIDIA T600",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "pixelshift",
+        "quadro",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x1FB1",
+      "subdevid": "0x1488",
+      "subvendorid": "0x17AA",
+      "name": "NVIDIA T600",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "pixelshift",
+        "quadro",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x1FB2",
+      "subdevid": "0x1489",
+      "subvendorid": "0x1028",
+      "name": "NVIDIA T400",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "pixelshift",
+        "quadro",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x1FB2",
+      "subdevid": "0x1489",
+      "subvendorid": "0x103C",
+      "name": "NVIDIA T400",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "pixelshift",
+        "quadro",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x1FB2",
+      "subdevid": "0x8A80",
+      "subvendorid": "0x103C",
+      "name": "NVIDIA T400",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "pixelshift",
+        "quadro",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
       "devid": "0x1FB2",
       "subdevid": "0x1489",
       "subvendorid": "0x10DE",
       "name": "NVIDIA T400",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "pixelshift",
+        "quadro",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x1FB2",
+      "subdevid": "0x1489",
+      "subvendorid": "0x15C3",
+      "name": "NVIDIA T400",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "pixelshift",
+        "quadro",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x1FB2",
+      "subdevid": "0x1489",
+      "subvendorid": "0x17AA",
+      "name": "NVIDIA T400",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "pixelshift",
+        "quadro",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x1FB6",
+      "name": "NVIDIA T600 Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "pixelshift",
+        "quadro",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x1FB7",
+      "name": "NVIDIA T550 Laptop GPU",
       "features": [
         "dpycbcr420",
         "dpgsynccompatible",
@@ -20652,6 +20934,19 @@
       ]
     },
     {
+      "devid": "0x2203",
+      "name": "NVIDIA GeForce RTX 3090 Ti",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
       "devid": "0x2204",
       "name": "NVIDIA GeForce RTX 3090",
       "features": [
@@ -20688,6 +20983,19 @@
         "geforce",
         "runtimepm",
         "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x220A",
+      "name": "NVIDIA GeForce RTX 3080",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetJ"
       ]
     },
     {
@@ -20861,6 +21169,59 @@
       ]
     },
     {
+      "devid": "0x2414",
+      "name": "NVIDIA GeForce RTX 3060 Ti",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x2420",
+      "name": "NVIDIA GeForce RTX 3080 Ti Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x2438",
+      "name": "NVIDIA RTX A5500 Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "pixelshift",
+        "quadro",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x2460",
+      "name": "NVIDIA GeForce RTX 3080 Ti Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
       "devid": "0x2482",
       "name": "NVIDIA GeForce RTX 3070 Ti",
       "features": [
@@ -20965,8 +21326,51 @@
       ]
     },
     {
+      "devid": "0x249C",
+      "subdevid": "0x1194",
+      "subvendorid": "0x1D05",
+      "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
       "devid": "0x249D",
       "name": "NVIDIA GeForce RTX 3070 Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x24A0",
+      "name": "NVIDIA GeForce RTX 3070 Ti Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x24A0",
+      "subdevid": "0x1192",
+      "subvendorid": "0x1D05",
+      "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
       "features": [
         "dpycbcr420",
         "dpgsynccompatible",
@@ -21036,6 +21440,48 @@
       ]
     },
     {
+      "devid": "0x24B9",
+      "name": "NVIDIA RTX A3000 12GB Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "pixelshift",
+        "quadro",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x24BA",
+      "name": "NVIDIA RTX A4500 Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "pixelshift",
+        "quadro",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x24BB",
+      "name": "NVIDIA RTX A3000 12GB Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "pixelshift",
+        "quadro",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
       "devid": "0x24DC",
       "name": "NVIDIA GeForce RTX 3080 Laptop GPU",
       "features": [
@@ -21062,6 +21508,33 @@
       ]
     },
     {
+      "devid": "0x24E0",
+      "name": "NVIDIA GeForce RTX 3070 Ti Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x24FA",
+      "name": "NVIDIA RTX A4500 Embedded GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "pixelshift",
+        "quadro",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
       "devid": "0x2503",
       "name": "NVIDIA GeForce RTX 3060",
       "features": [
@@ -21077,6 +21550,19 @@
     {
       "devid": "0x2504",
       "name": "NVIDIA GeForce RTX 3060",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x2507",
+      "name": "NVIDIA GeForce RTX 3050",
       "features": [
         "dpycbcr420",
         "dpgsynccompatible",
@@ -21233,8 +21719,53 @@
       ]
     },
     {
+      "devid": "0x25A0",
+      "subdevid": "0x1196",
+      "subvendorid": "0x1D05",
+      "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
       "devid": "0x25A2",
       "name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x25A2",
+      "subdevid": "0x0BAF",
+      "subvendorid": "0x1028",
+      "name": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x25A2",
+      "subdevid": "0x1195",
+      "subvendorid": "0x1D05",
+      "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
       "features": [
         "dpycbcr420",
         "dpgsynccompatible",
@@ -21273,7 +21804,7 @@
     },
     {
       "devid": "0x25A7",
-      "name": "NVIDIA GeForce MX570",
+      "name": "NVIDIA GeForce RTX 2050",
       "features": [
         "dpycbcr420",
         "dpgsynccompatible",
@@ -21344,6 +21875,48 @@
       ]
     },
     {
+      "devid": "0x25B9",
+      "name": "NVIDIA RTX A1000 Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "pixelshift",
+        "quadro",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x25BA",
+      "name": "NVIDIA RTX A2000 8GB Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "pixelshift",
+        "quadro",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x25BB",
+      "name": "NVIDIA RTX A500 Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "pixelshift",
+        "quadro",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
       "devid": "0x25E0",
       "name": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
       "features": [
@@ -21378,6 +21951,34 @@
         "hdmi4k60rgb444",
         "hdmigsynccompatible",
         "geforce",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x25F9",
+      "name": "NVIDIA RTX A1000 Embedded GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "pixelshift",
+        "quadro",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x25FA",
+      "name": "NVIDIA RTX A2000 Embedded GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "pixelshift",
+        "quadro",
         "runtimepm",
         "vdpaufeaturesetK"
       ]
