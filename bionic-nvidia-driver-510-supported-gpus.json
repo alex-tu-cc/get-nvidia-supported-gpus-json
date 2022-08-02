@@ -19578,6 +19578,19 @@
       ]
     },
     {
+      "devid": "0x1F83",
+      "name": "NVIDIA GeForce GTX 1630",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
       "devid": "0x1F91",
       "name": "NVIDIA GeForce GTX 1650",
       "features": [
