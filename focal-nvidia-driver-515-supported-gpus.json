@@ -19929,6 +19929,36 @@
       ]
     },
     {
+      "devid": "0x20B2",
+      "subdevid": "0x1622",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA A100-SXM4-80GB",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetJ",
+        "kernelopen"
+      ]
+    },
+    {
+      "devid": "0x20B2",
+      "subdevid": "0x1623",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA A100-SXM4-80GB",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetJ",
+        "kernelopen"
+      ]
+    },
+    {
       "devid": "0x20B3",
       "subdevid": "0x14A7",
       "subvendorid": "0x10DE",
@@ -21334,6 +21364,19 @@
     },
     {
       "devid": "0x2520",
+      "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetK",
+        "kernelopen"
+      ]
+    },
+    {
+      "devid": "0x2521",
       "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
       "features": [
         "dpycbcr420",
