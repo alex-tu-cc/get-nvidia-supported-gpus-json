@@ -74,6 +74,8 @@ pci:v000010DEd000020B5sv*sd*bc03sc*i*
 pci:v000010DEd000020B6sv*sd*bc03sc*i*
 pci:v000010DEd000020B7sv*sd*bc03sc*i*
 pci:v000010DEd000020F1sv*sd*bc03sc*i*
+pci:v000010DEd000020F3sv*sd*bc03sc*i*
+pci:v000010DEd000020F5sv*sd*bc03sc*i*
 pci:v000010DEd00002182sv*sd*bc03sc*i*
 pci:v000010DEd00002184sv*sd*bc03sc*i*
 pci:v000010DEd00002187sv*sd*bc03sc*i*
@@ -85,6 +87,7 @@ pci:v000010DEd000021D1sv*sd*bc03sc*i*
 pci:v000010DEd00002203sv*sd*bc03sc*i*
 pci:v000010DEd00002204sv*sd*bc03sc*i*
 pci:v000010DEd00002206sv*sd*bc03sc*i*
+pci:v000010DEd00002207sv*sd*bc03sc*i*
 pci:v000010DEd00002208sv*sd*bc03sc*i*
 pci:v000010DEd0000220Asv*sd*bc03sc*i*
 pci:v000010DEd0000220Dsv*sd*bc03sc*i*
@@ -97,6 +100,7 @@ pci:v000010DEd00002235sv*sd*bc03sc*i*
 pci:v000010DEd00002236sv*sd*bc03sc*i*
 pci:v000010DEd00002237sv*sd*bc03sc*i*
 pci:v000010DEd00002238sv*sd*bc03sc*i*
+pci:v000010DEd00002331sv*sd*bc03sc*i*
 pci:v000010DEd00002414sv*sd*bc03sc*i*
 pci:v000010DEd00002420sv*sd*bc03sc*i*
 pci:v000010DEd00002438sv*sd*bc03sc*i*
@@ -119,6 +123,7 @@ pci:v000010DEd000024B8sv*sd*bc03sc*i*
 pci:v000010DEd000024B9sv*sd*bc03sc*i*
 pci:v000010DEd000024BAsv*sd*bc03sc*i*
 pci:v000010DEd000024BBsv*sd*bc03sc*i*
+pci:v000010DEd000024C9sv*sd*bc03sc*i*
 pci:v000010DEd000024DCsv*sd*bc03sc*i*
 pci:v000010DEd000024DDsv*sd*bc03sc*i*
 pci:v000010DEd000024E0sv*sd*bc03sc*i*
@@ -128,8 +133,10 @@ pci:v000010DEd00002504sv*sd*bc03sc*i*
 pci:v000010DEd00002507sv*sd*bc03sc*i*
 pci:v000010DEd00002508sv*sd*bc03sc*i*
 pci:v000010DEd00002520sv*sd*bc03sc*i*
+pci:v000010DEd00002521sv*sd*bc03sc*i*
 pci:v000010DEd00002523sv*sd*bc03sc*i*
 pci:v000010DEd00002531sv*sd*bc03sc*i*
+pci:v000010DEd00002544sv*sd*bc03sc*i*
 pci:v000010DEd00002560sv*sd*bc03sc*i*
 pci:v000010DEd00002563sv*sd*bc03sc*i*
 pci:v000010DEd00002571sv*sd*bc03sc*i*
@@ -150,3 +157,4 @@ pci:v000010DEd000025E2sv*sd*bc03sc*i*
 pci:v000010DEd000025E5sv*sd*bc03sc*i*
 pci:v000010DEd000025F9sv*sd*bc03sc*i*
 pci:v000010DEd000025FAsv*sd*bc03sc*i*
+pci:v000010DEd000025FBsv*sd*bc03sc*i*

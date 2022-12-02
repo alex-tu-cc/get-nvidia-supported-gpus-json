@@ -20064,6 +20064,156 @@
       ]
     },
     {
+      "devid": "0x20F3",
+      "subdevid": "0x179B",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA A800-SXM4-80GB",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetJ",
+        "kernelopen"
+      ]
+    },
+    {
+      "devid": "0x20F3",
+      "subdevid": "0x179C",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA A800-SXM4-80GB",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetJ",
+        "kernelopen"
+      ]
+    },
+    {
+      "devid": "0x20F3",
+      "subdevid": "0x179D",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA A800-SXM4-80GB",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetJ",
+        "kernelopen"
+      ]
+    },
+    {
+      "devid": "0x20F3",
+      "subdevid": "0x179E",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA A800-SXM4-80GB",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetJ",
+        "kernelopen"
+      ]
+    },
+    {
+      "devid": "0x20F3",
+      "subdevid": "0x179F",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA A800-SXM4-80GB",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetJ",
+        "kernelopen"
+      ]
+    },
+    {
+      "devid": "0x20F3",
+      "subdevid": "0x17A0",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA A800-SXM4-80GB",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetJ",
+        "kernelopen"
+      ]
+    },
+    {
+      "devid": "0x20F3",
+      "subdevid": "0x17A1",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA A800-SXM4-80GB",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetJ",
+        "kernelopen"
+      ]
+    },
+    {
+      "devid": "0x20F3",
+      "subdevid": "0x17A2",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA A800-SXM4-80GB",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetJ",
+        "kernelopen"
+      ]
+    },
+    {
+      "devid": "0x20F5",
+      "subdevid": "0x1799",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA A800 80GB PCIe",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetJ",
+        "kernelopen"
+      ]
+    },
+    {
+      "devid": "0x20F5",
+      "subdevid": "0x179A",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA A800 80GB PCIe LC",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetJ",
+        "kernelopen"
+      ]
+    },
+    {
       "devid": "0x2182",
       "name": "NVIDIA GeForce GTX 1660 Ti",
       "features": [
@@ -21915,8 +22065,40 @@
       ]
     },
     {
+      "devid": "0x25FB",
+      "name": "NVIDIA RTX A500 Embedded GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetK",
+        "kernelopen"
+      ]
+    },
+    {
       "devid": "0x2684",
       "name": "NVIDIA GeForce RTX 4090",
+      "features": []
+    },
+    {
+      "devid": "0x26B1",
+      "subdevid": "0x16A1",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA RTX 6000 Ada Generation",
+      "features": []
+    },
+    {
+      "devid": "0x26B5",
+      "subdevid": "0x169D",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA L40",
+      "features": []
+    },
+    {
+      "devid": "0x2704",
+      "name": "NVIDIA GeForce RTX 4080",
       "features": []
     }
   ]

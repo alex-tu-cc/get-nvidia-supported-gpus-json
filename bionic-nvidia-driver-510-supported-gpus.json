@@ -21666,6 +21666,36 @@
       ]
     },
     {
+      "devid": "0x20B2",
+      "subdevid": "0x1622",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA A100-SXM4-80GB",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x20B2",
+      "subdevid": "0x1623",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA A100-SXM4-80GB",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
       "devid": "0x20B3",
       "subdevid": "0x14A7",
       "subvendorid": "0x10DE",
@@ -21760,6 +21790,171 @@
       "subdevid": "0x145F",
       "subvendorid": "0x10DE",
       "name": "NVIDIA A100-PCIE-40GB",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x20F3",
+      "subdevid": "0x179B",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA A800-SXM4-80GB",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x20F3",
+      "subdevid": "0x179C",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA A800-SXM4-80GB",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x20F3",
+      "subdevid": "0x179D",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA A800-SXM4-80GB",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x20F3",
+      "subdevid": "0x179E",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA A800-SXM4-80GB",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x20F3",
+      "subdevid": "0x179F",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA A800-SXM4-80GB",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x20F3",
+      "subdevid": "0x17A0",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA A800-SXM4-80GB",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x20F3",
+      "subdevid": "0x17A1",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA A800-SXM4-80GB",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x20F3",
+      "subdevid": "0x17A2",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA A800-SXM4-80GB",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x20F5",
+      "subdevid": "0x1799",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA A800 80GB PCIe",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x20F5",
+      "subdevid": "0x179A",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA A800 80GB PCIe LC",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetJ"
+      ]
+    },
+    {
+      "devid": "0x20F6",
+      "subdevid": "0x17A3",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA A800 40GB PCIe",
       "features": [
         "dpycbcr420",
         "dpgsynccompatible",
@@ -22240,6 +22435,19 @@
     {
       "devid": "0x2206",
       "name": "NVIDIA GeForce RTX 3080",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x2207",
+      "name": "NVIDIA GeForce RTX 3070 Ti",
       "features": [
         "dpycbcr420",
         "dpgsynccompatible",
@@ -22968,6 +23176,19 @@
       ]
     },
     {
+      "devid": "0x24C9",
+      "name": "NVIDIA GeForce RTX 3060 Ti",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
       "devid": "0x24DC",
       "name": "NVIDIA GeForce RTX 3080 Laptop GPU",
       "features": [
@@ -23085,6 +23306,19 @@
       ]
     },
     {
+      "devid": "0x2521",
+      "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
       "devid": "0x2523",
       "name": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
       "features": [
@@ -23147,6 +23381,19 @@
       "subdevid": "0x151D",
       "subvendorid": "0x17AA",
       "name": "NVIDIA RTX A2000",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "geforce",
+        "runtimepm",
+        "vdpaufeaturesetK"
+      ]
+    },
+    {
+      "devid": "0x2544",
+      "name": "NVIDIA GeForce RTX 3060",
       "features": [
         "dpycbcr420",
         "dpgsynccompatible",
