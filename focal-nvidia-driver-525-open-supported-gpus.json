@@ -19962,7 +19962,7 @@
       "devid": "0x20B3",
       "subdevid": "0x14A7",
       "subvendorid": "0x10DE",
-      "name": "NVIDIA PG506-242",
+      "name": "NVIDIA A100-SXM-64GB",
       "features": [
         "dpycbcr420",
         "dpgsynccompatible",
@@ -19977,7 +19977,7 @@
       "devid": "0x20B3",
       "subdevid": "0x14A8",
       "subvendorid": "0x10DE",
-      "name": "NVIDIA PG506-243",
+      "name": "NVIDIA A100-SXM-64GB",
       "features": [
         "dpycbcr420",
         "dpgsynccompatible",
@@ -21752,6 +21752,19 @@
       ]
     },
     {
+      "devid": "0x2582",
+      "name": "NVIDIA GeForce RTX 3050",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetK",
+        "kernelopen"
+      ]
+    },
+    {
       "devid": "0x25A0",
       "name": "NVIDIA GeForce RTX 3050 Ti Laptop GPU",
       "features": [
@@ -22080,26 +22093,116 @@
     {
       "devid": "0x2684",
       "name": "NVIDIA GeForce RTX 4090",
-      "features": []
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetK",
+        "kernelopen"
+      ]
+    },
+    {
+      "devid": "0x26B1",
+      "subdevid": "0x16A1",
+      "subvendorid": "0x1028",
+      "name": "NVIDIA RTX 6000 Ada Generation",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetK",
+        "kernelopen"
+      ]
+    },
+    {
+      "devid": "0x26B1",
+      "subdevid": "0x16A1",
+      "subvendorid": "0x103C",
+      "name": "NVIDIA RTX 6000 Ada Generation",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetK",
+        "kernelopen"
+      ]
     },
     {
       "devid": "0x26B1",
       "subdevid": "0x16A1",
       "subvendorid": "0x10DE",
       "name": "NVIDIA RTX 6000 Ada Generation",
-      "features": []
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetK",
+        "kernelopen"
+      ]
+    },
+    {
+      "devid": "0x26B1",
+      "subdevid": "0x16A1",
+      "subvendorid": "0x17AA",
+      "name": "NVIDIA RTX 6000 Ada Generation",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetK",
+        "kernelopen"
+      ]
     },
     {
       "devid": "0x26B5",
       "subdevid": "0x169D",
       "subvendorid": "0x10DE",
       "name": "NVIDIA L40",
-      "features": []
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetK",
+        "kernelopen"
+      ]
     },
     {
       "devid": "0x2704",
       "name": "NVIDIA GeForce RTX 4080",
-      "features": []
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetK",
+        "kernelopen"
+      ]
+    },
+    {
+      "devid": "0x2782",
+      "name": "NVIDIA GeForce RTX 4070 Ti",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetK",
+        "kernelopen"
+      ]
     }
   ]
 }
