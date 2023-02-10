@@ -21057,10 +21057,70 @@
       ]
     },
     {
+      "devid": "0x2330",
+      "subdevid": "0x16C0",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA H100 80GB HBM3",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetK",
+        "kernelopen"
+      ]
+    },
+    {
+      "devid": "0x2330",
+      "subdevid": "0x16C1",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA H100 80GB HBM3",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetK",
+        "kernelopen"
+      ]
+    },
+    {
       "devid": "0x2331",
       "subdevid": "0x1626",
       "subvendorid": "0x10DE",
       "name": "NVIDIA H100 PCIe",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetK",
+        "kernelopen"
+      ]
+    },
+    {
+      "devid": "0x2336",
+      "subdevid": "0x16C2",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA H100 80GB HBM2e",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetK",
+        "kernelopen"
+      ]
+    },
+    {
+      "devid": "0x2336",
+      "subdevid": "0x16C7",
+      "subvendorid": "0x10DE",
+      "name": "NVIDIA H100 80GB HBM2e",
       "features": [
         "dpycbcr420",
         "dpgsynccompatible",
@@ -21931,6 +21991,19 @@
       ]
     },
     {
+      "devid": "0x25AD",
+      "name": "NVIDIA GeForce RTX 2050",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetK",
+        "kernelopen"
+      ]
+    },
+    {
       "devid": "0x25B6",
       "subdevid": "0x14A9",
       "subvendorid": "0x10DE",
@@ -22041,6 +22114,19 @@
     {
       "devid": "0x25E5",
       "name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetK",
+        "kernelopen"
+      ]
+    },
+    {
+      "devid": "0x25ED",
+      "name": "NVIDIA GeForce RTX 2050",
       "features": [
         "dpycbcr420",
         "dpgsynccompatible",
