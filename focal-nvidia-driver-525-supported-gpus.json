@@ -21102,36 +21102,6 @@
       ]
     },
     {
-      "devid": "0x2336",
-      "subdevid": "0x16C2",
-      "subvendorid": "0x10DE",
-      "name": "NVIDIA H100 80GB HBM2e",
-      "features": [
-        "dpycbcr420",
-        "dpgsynccompatible",
-        "hdmi4k60rgb444",
-        "hdmigsynccompatible",
-        "runtimepm",
-        "vdpaufeaturesetK",
-        "kernelopen"
-      ]
-    },
-    {
-      "devid": "0x2336",
-      "subdevid": "0x16C7",
-      "subvendorid": "0x10DE",
-      "name": "NVIDIA H100 80GB HBM2e",
-      "features": [
-        "dpycbcr420",
-        "dpgsynccompatible",
-        "hdmi4k60rgb444",
-        "hdmigsynccompatible",
-        "runtimepm",
-        "vdpaufeaturesetK",
-        "kernelopen"
-      ]
-    },
-    {
       "devid": "0x2414",
       "name": "NVIDIA GeForce RTX 3060 Ti",
       "features": [
@@ -21991,6 +21961,32 @@
       ]
     },
     {
+      "devid": "0x25AB",
+      "name": "NVIDIA GeForce RTX 3050 4GB Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetK",
+        "kernelopen"
+      ]
+    },
+    {
+      "devid": "0x25AC",
+      "name": "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetK",
+        "kernelopen"
+      ]
+    },
+    {
       "devid": "0x25AD",
       "name": "NVIDIA GeForce RTX 2050",
       "features": [
@@ -22114,6 +22110,19 @@
     {
       "devid": "0x25E5",
       "name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetK",
+        "kernelopen"
+      ]
+    },
+    {
+      "devid": "0x25EC",
+      "name": "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
       "features": [
         "dpycbcr420",
         "dpgsynccompatible",
@@ -22278,8 +22287,138 @@
       ]
     },
     {
+      "devid": "0x2717",
+      "name": "NVIDIA GeForce RTX 4090 Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetK",
+        "kernelopen"
+      ]
+    },
+    {
+      "devid": "0x2757",
+      "name": "NVIDIA GeForce RTX 4090 Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetK",
+        "kernelopen"
+      ]
+    },
+    {
       "devid": "0x2782",
       "name": "NVIDIA GeForce RTX 4070 Ti",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetK",
+        "kernelopen"
+      ]
+    },
+    {
+      "devid": "0x27A0",
+      "name": "NVIDIA GeForce RTX 4080 Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetK",
+        "kernelopen"
+      ]
+    },
+    {
+      "devid": "0x27E0",
+      "name": "NVIDIA GeForce RTX 4080 Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetK",
+        "kernelopen"
+      ]
+    },
+    {
+      "devid": "0x2820",
+      "name": "NVIDIA GeForce RTX 4070 Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetK",
+        "kernelopen"
+      ]
+    },
+    {
+      "devid": "0x2860",
+      "name": "NVIDIA GeForce RTX 4070 Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetK",
+        "kernelopen"
+      ]
+    },
+    {
+      "devid": "0x28A0",
+      "name": "NVIDIA GeForce RTX 4060 Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetK",
+        "kernelopen"
+      ]
+    },
+    {
+      "devid": "0x28A1",
+      "name": "NVIDIA GeForce RTX 4050 Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetK",
+        "kernelopen"
+      ]
+    },
+    {
+      "devid": "0x28E0",
+      "name": "NVIDIA GeForce RTX 4060 Laptop GPU",
+      "features": [
+        "dpycbcr420",
+        "dpgsynccompatible",
+        "hdmi4k60rgb444",
+        "hdmigsynccompatible",
+        "runtimepm",
+        "vdpaufeaturesetK",
+        "kernelopen"
+      ]
+    },
+    {
+      "devid": "0x28E1",
+      "name": "NVIDIA GeForce RTX 4050 Laptop GPU",
       "features": [
         "dpycbcr420",
         "dpgsynccompatible",
